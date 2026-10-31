@@ -12,66 +12,62 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ratika =====
-[1]Ratika      |07:58:03 | 30-10-2026| login OK @ratikacd | score=2420 rank=3264
-[1]Ratika      |07:58:03 | 30-10-2026| serverTime=2026-10-30T07:58:03.000Z local=2026-10-30T07:58:03.794Z
+[1]Ratika      |07:53:25 | 31-10-2026| login OK @ratikacd | score=2500 rank=3156
+[1]Ratika      |07:53:25 | 31-10-2026| serverTime=2026-10-31T07:53:25.000Z local=2026-10-31T07:53:25.204Z
 --> [1]Ratika menjalankan: Claim Daily
-[1]Ratika      |07:58:04 | 30-10-2026| daily: OK +10 poin score=2430
---> [1]Ratika menjalankan: Auto All Tasks (7 pending)
-[1]Ratika      |07:58:06 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/ratikacd/status/2116076596774897276
-[1]Ratika      |07:58:06 | 30-10-2026| delay 10s...
-[1]Ratika      |07:58:18 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/ratikacd/status/2116076746761350769
-[1]Ratika      |07:58:18 | 30-10-2026| delay 10s...
-[1]Ratika      |07:58:30 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/ratikacd/status/2116076831184589598
-[1]Ratika      |07:58:30 | 30-10-2026| delay 10s...
-[1]Ratika      |07:58:41 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/ratikacd/status/2116076699114102284
-[1]Ratika      |07:58:41 | 30-10-2026| delay 10s...
-[1]Ratika      |07:58:53 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/ratikacd/status/2116077066528034931
-[1]Ratika      |07:58:53 | 30-10-2026| delay 10s...
-[1]Ratika      |07:59:05 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/ratikacd/status/2116077094049197052
-[1]Ratika      |07:59:05 | 30-10-2026| delay 10s...
-[1]Ratika      |07:59:17 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
-[1]Ratika      |07:59:17 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ratika      |07:59:19 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/ratikacd/status/2116077037875676405
+[1]Ratika      |07:53:26 | 31-10-2026| daily: OK +10 poin score=2510
+--> [1]Ratika menjalankan: Auto All Tasks (5 pending)
+[1]Ratika      |07:53:28 | 31-10-2026| [1/5] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116437896159457234
+[1]Ratika      |07:53:28 | 31-10-2026| delay 10s...
+[1]Ratika      |07:53:39 | 31-10-2026| [2/5] 2a71892a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438095542634548
+[1]Ratika      |07:53:39 | 31-10-2026| delay 10s...
+[1]Ratika      |07:53:52 | 31-10-2026| [3/5] caaa7a93 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438143715805414
+[1]Ratika      |07:53:52 | 31-10-2026| delay 10s...
+[1]Ratika      |07:54:03 | 31-10-2026| [4/5] d4f05f1e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438056564783922
+[1]Ratika      |07:54:03 | 31-10-2026| delay 10s...
+[1]Ratika      |07:54:16 | 31-10-2026| [5/5] bbf7f979 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438196373512798
+[1]Ratika      |07:54:16 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ratika      |07:54:17 | 31-10-2026| [1/1] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116336474631348 | proof=https://x.com/ratikacd/status/2116438220326240186
 --> [1]Ratika menjalankan: Watch Anime
-[1]Ratika      |07:59:20 | 30-10-2026| watch: semua video sudah completed
+[1]Ratika      |07:54:18 | 31-10-2026| watch: semua video sudah completed
 --> [1]Ratika menjalankan: Read Article
-[1]Ratika      |07:59:21 | 30-10-2026| news: 30/30 artikel selesai dibaca
-[1]Ratika      |07:59:21 | 30-10-2026| mint eligibility: {"userId":"1748144281741910017","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratiikaa","status":"submitted","revision":"1c26e88a-3a6b-4a7b-89fc-b85c0f491fd5"
-[1]Ratika      |07:59:21 | 30-10-2026| news: semua artikel sudah dibaca
+[1]Ratika      |07:54:19 | 31-10-2026| news: 30/32 artikel selesai dibaca
+[1]Ratika      |07:54:19 | 31-10-2026| mint eligibility: {"userId":"1748144281741910017","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratiikaa","status":"submitted","revision":"1c26e88a-3a6b-4a7b-89fc-b85c0f491fd5"
+[1]Ratika      |07:54:26 | 31-10-2026| news [1/2] smart-pocket-monthly-2026-10: OK completed=31
+[1]Ratika      |07:54:34 | 31-10-2026| news [2/2] oshi-labs-monthly-2026-10: OK completed=32
 --> [1]Ratika menjalankan: Quiz Anime
 --> [1]Ratika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ratika      |07:59:23 | 30-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ratika      |07:59:24 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratika      |07:59:24 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratika      |07:59:24 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratika      |07:54:39 | 31-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ratika      |07:54:39 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Ratika      |07:54:39 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ratika      |07:54:39 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratika menjalankan: Claim Missions
-[1]Ratika      |07:59:24 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratika      |07:59:24 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratika      |07:59:24 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratika      |07:54:39 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Ratika      |07:54:39 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ratika      |07:54:39 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratika menjalankan: Check Eligibility
 
 --- eligibility [1]Ratika ---
-  @ratikacd | score=2420 rank=3264
-  tasks    [#######-------------] 4/11
+  @ratikacd | score=2500 rank=3156
+  tasks    [############--------] 7/12
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [##################--] 11/12
-  artikel  [####################] 30/30
+  artikel  [####################] 32/32
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ratika menjalankan: Read Manga
-[1]Ratika      |07:59:27 | 30-10-2026| manga: 0/13 chapter belum completed
+[1]Ratika      |07:54:43 | 31-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ratika menjalankan: Get Gift
-[1]Ratika      |07:59:28 | 30-10-2026| gift: 1/6 belum diterima
-[1]Ratika      |07:59:29 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
+[1]Ratika      |07:54:43 | 31-10-2026| gift: 0/6 belum diterima
 --> [1]Ratika menjalankan: Setup Profile
-[1]Ratika      |07:59:32 | 30-10-2026| profile: bio="https://x.com/ratikacd" fav=yuki rewardAt=1791706607
-[1]Ratika      |07:59:32 | 30-10-2026| profile: bonus sudah diklaim, skip
+[1]Ratika      |07:54:44 | 31-10-2026| profile: bio="https://x.com/ratikacd" fav=yuki rewardAt=1791706607
+[1]Ratika      |07:54:44 | 31-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ratika menjalankan: Bind Wallet
-[1]Ratika      |07:59:32 | 30-10-2026| wallet: sudah terikat F7uL2roo5h... (solana)
+[1]Ratika      |07:54:44 | 31-10-2026| wallet: sudah terikat F7uL2roo5h... (solana)
 
 == RINGKASAN ==
-- Ratika: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
+- Ratika: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 2 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
