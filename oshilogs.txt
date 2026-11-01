@@ -12,62 +12,67 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ratika =====
-[1]Ratika      |07:53:25 | 31-10-2026| login OK @ratikacd | score=2500 rank=3156
-[1]Ratika      |07:53:25 | 31-10-2026| serverTime=2026-10-31T07:53:25.000Z local=2026-10-31T07:53:25.204Z
+[1]Ratika      |08:35:26 | 01-11-2026| login OK @ratikacd | score=2560 rank=3063
+[1]Ratika      |08:35:26 | 01-11-2026| serverTime=2026-11-01T08:35:26.000Z local=2026-11-01T08:35:26.871Z
 --> [1]Ratika menjalankan: Claim Daily
-[1]Ratika      |07:53:26 | 31-10-2026| daily: OK +10 poin score=2510
---> [1]Ratika menjalankan: Auto All Tasks (5 pending)
-[1]Ratika      |07:53:28 | 31-10-2026| [1/5] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116437896159457234
-[1]Ratika      |07:53:28 | 31-10-2026| delay 10s...
-[1]Ratika      |07:53:39 | 31-10-2026| [2/5] 2a71892a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438095542634548
-[1]Ratika      |07:53:39 | 31-10-2026| delay 10s...
-[1]Ratika      |07:53:52 | 31-10-2026| [3/5] caaa7a93 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438143715805414
-[1]Ratika      |07:53:52 | 31-10-2026| delay 10s...
-[1]Ratika      |07:54:03 | 31-10-2026| [4/5] d4f05f1e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438056564783922
-[1]Ratika      |07:54:03 | 31-10-2026| delay 10s...
-[1]Ratika      |07:54:16 | 31-10-2026| [5/5] bbf7f979 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/ratikacd/status/2116438196373512798
-[1]Ratika      |07:54:16 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ratika      |07:54:17 | 31-10-2026| [1/1] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116336474631348 | proof=https://x.com/ratikacd/status/2116438220326240186
+[1]Ratika      |08:35:28 | 01-11-2026| daily: OK +10 poin score=2570
+--> [1]Ratika menjalankan: Auto All Tasks (11 pending)
+[1]Ratika      |08:35:30 | 01-11-2026| [1/11] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116810798107097109
+[1]Ratika      |08:35:30 | 01-11-2026| delay 10s...
+[1]Ratika      |08:35:42 | 01-11-2026| [2/11] 5c549577 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116810851214147717
+[1]Ratika      |08:35:42 | 01-11-2026| delay 10s...
+[1]Ratika      |08:35:54 | 01-11-2026| [3/11] 8ac1a107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116810887820380340
+[1]Ratika      |08:35:54 | 01-11-2026| delay 10s...
+[1]Ratika      |08:36:06 | 01-11-2026| [4/11] 76e5ce8c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811030663591150
+[1]Ratika      |08:36:06 | 01-11-2026| delay 10s...
+[1]Ratika      |08:36:18 | 01-11-2026| [5/11] 7354ea5e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811127167283844
+[1]Ratika      |08:36:18 | 01-11-2026| delay 10s...
+[1]Ratika      |08:36:30 | 01-11-2026| [6/11] 07e2b02d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811152067565909
+[1]Ratika      |08:36:30 | 01-11-2026| delay 10s...
+[1]Ratika      |08:36:42 | 01-11-2026| [7/11] 70541c21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811265661685425
+[1]Ratika      |08:36:42 | 01-11-2026| delay 10s...
+[1]Ratika      |08:36:55 | 01-11-2026| [8/11] 55940470 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811203022703306
+[1]Ratika      |08:36:55 | 01-11-2026| delay 10s...
+[1]Ratika      |08:37:08 | 01-11-2026| [9/11] 587d9c2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811370087253350
+[1]Ratika      |08:37:08 | 01-11-2026| delay 10s...
+[1]Ratika      |08:37:21 | 01-11-2026| [10/11] 28bea61c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811551652612583
+[1]Ratika      |08:37:21 | 01-11-2026| delay 10s...
+[1]Ratika      |08:37:33 | 01-11-2026| [11/11] 50117b4a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211678542731958 | proof=https://x.com/ratikacd/status/2116811388047322599
+[1]Ratika      |08:37:33 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ratika      |08:37:35 | 01-11-2026| [1/1] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"044a9851-be50-4602-b83d-679a398dae7b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116785427319587 | proof=https://x.com/ratikacd/status/2116811249215161180
 --> [1]Ratika menjalankan: Watch Anime
-[1]Ratika      |07:54:18 | 31-10-2026| watch: semua video sudah completed
+[1]Ratika      |08:37:36 | 01-11-2026| watch: semua video sudah completed
 --> [1]Ratika menjalankan: Read Article
-[1]Ratika      |07:54:19 | 31-10-2026| news: 30/32 artikel selesai dibaca
-[1]Ratika      |07:54:19 | 31-10-2026| mint eligibility: {"userId":"1748144281741910017","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratiikaa","status":"submitted","revision":"1c26e88a-3a6b-4a7b-89fc-b85c0f491fd5"
-[1]Ratika      |07:54:26 | 31-10-2026| news [1/2] smart-pocket-monthly-2026-10: OK completed=31
-[1]Ratika      |07:54:34 | 31-10-2026| news [2/2] oshi-labs-monthly-2026-10: OK completed=32
+[1]Ratika      |08:37:39 | 01-11-2026| news: 32/33 artikel selesai dibaca
+[1]Ratika      |08:37:42 | 01-11-2026| mint eligibility: {"userId":"1748144281741910017","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratiikaa","status":"submitted","revision":"1c26e88a-3a6b-4a7b-89fc-b85c0f491fd5"
+[1]Ratika      |08:37:44 | 01-11-2026| news oshi-labs-new-features-2026-11: view GAGAL http=503
 --> [1]Ratika menjalankan: Quiz Anime
+[1]Ratika      |08:37:44 | 01-11-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Ratika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ratika      |07:54:39 | 31-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ratika      |07:54:39 | 31-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratika      |07:54:39 | 31-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratika      |07:54:39 | 31-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratika      |08:37:45 | 01-11-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ratika      |08:37:45 | 01-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Ratika menjalankan: Claim Missions
-[1]Ratika      |07:54:39 | 31-10-2026| mission music-listens-10: sudah diklaim
-[1]Ratika      |07:54:39 | 31-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ratika      |07:54:39 | 31-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ratika      |08:37:45 | 01-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Ratika menjalankan: Check Eligibility
 
 --- eligibility [1]Ratika ---
-  @ratikacd | score=2500 rank=3156
-  tasks    [############--------] 7/12
-  mission  music-listens-10:      claimed
-  mission  music-minutes-30:      claimed
-  mission  anime-completed-3:     claimed
-  quiz     [?]
-  watch    [####################] 22/17
-  music    [##################--] 11/12
-  artikel  [####################] 32/32
-  mint: requirementsMet=false mintOpen=false discord=true
+  @ratikacd | score=2560 rank=3063
+  tasks    [####----------------] 3/14
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 --> [1]Ratika menjalankan: Read Manga
-[1]Ratika      |07:54:43 | 31-10-2026| manga: 0/13 chapter belum completed
+[1]Ratika      |08:37:46 | 01-11-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Ratika menjalankan: Get Gift
-[1]Ratika      |07:54:43 | 31-10-2026| gift: 0/6 belum diterima
+[1]Ratika      |08:37:46 | 01-11-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Ratika menjalankan: Setup Profile
-[1]Ratika      |07:54:44 | 31-10-2026| profile: bio="https://x.com/ratikacd" fav=yuki rewardAt=1791706607
-[1]Ratika      |07:54:44 | 31-10-2026| profile: bonus sudah diklaim, skip
+[1]Ratika      |08:37:47 | 01-11-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Ratika menjalankan: Bind Wallet
-[1]Ratika      |07:54:44 | 31-10-2026| wallet: sudah terikat F7uL2roo5h... (solana)
+[1]Ratika      |08:37:47 | 01-11-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Ratika: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 2 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
+- Ratika: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
