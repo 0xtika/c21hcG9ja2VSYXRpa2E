@@ -12,37 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ratika =====
-[1]Ratika      |08:55:13 | 03-11-2026| login OK @ratikacd | score=2770 rank=2777
-[1]Ratika      |08:55:13 | 03-11-2026| serverTime=2026-11-03T08:55:13.000Z local=2026-11-03T08:55:13.781Z
+[1]Ratika      |08:28:08 | 04-11-2026| login OK @ratikacd | score=2800 rank=2745
+[1]Ratika      |08:28:08 | 04-11-2026| serverTime=2026-11-04T08:28:08.000Z local=2026-11-04T08:28:08.079Z
 --> [1]Ratika menjalankan: Claim Daily
-[1]Ratika      |08:55:16 | 03-11-2026| daily: OK +10 poin score=2780
+[1]Ratika      |08:28:09 | 04-11-2026| daily ERROR: daily http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Ratika menjalankan: Auto All Tasks (2 pending)
-[1]Ratika      |08:55:18 | 03-11-2026| [1/2] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ratikacd/status/2117540527520022383
-[1]Ratika      |08:55:18 | 03-11-2026| delay 10s...
-[1]Ratika      |08:55:31 | 03-11-2026| [2/2] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ratikacd/status/2117540695579789757
-[1]Ratika      |08:55:31 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ratika      |08:55:32 | 03-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/ratikacd/status/2117540582857030184
+[1]Ratika      |08:28:12 | 04-11-2026| [1/2] ba012859 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/ratikacd/status/2117896248232255248
+[1]Ratika      |08:28:12 | 04-11-2026| delay 10s...
+[1]Ratika      |08:28:24 | 04-11-2026| [2/2] 6608dad0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/ratikacd/status/2117896375423145154
+[1]Ratika      |08:28:24 | 04-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ratika      |08:28:25 | 04-11-2026| [1/1] ba012859 (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/ratikacd/status/2117896338058438684
 --> [1]Ratika menjalankan: Watch Anime
-[1]Ratika      |08:55:33 | 03-11-2026| watch: semua video sudah completed
+[1]Ratika      |08:28:26 | 04-11-2026| watch: semua video sudah completed
 --> [1]Ratika menjalankan: Read Article
-[1]Ratika      |08:55:35 | 03-11-2026| news: 34/34 artikel selesai dibaca
-[1]Ratika      |08:55:35 | 03-11-2026| mint eligibility: {"userId":"1748144281741910017","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratiikaa","status":"submitted","revision":"1c26e88a-3a6b-4a7b-89fc-b85c0f491fd5"
-[1]Ratika      |08:55:35 | 03-11-2026| news: semua artikel sudah dibaca
+[1]Ratika      |08:28:28 | 04-11-2026| news: 34/34 artikel selesai dibaca
+[1]Ratika      |08:28:28 | 04-11-2026| mint eligibility: {"userId":"1748144281741910017","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ratiikaa","status":"submitted","revision":"1c26e88a-3a6b-4a7b-89fc-b85c0f491fd5"
+[1]Ratika      |08:28:28 | 04-11-2026| news: semua artikel sudah dibaca
 --> [1]Ratika menjalankan: Quiz Anime
 --> [1]Ratika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ratika      |08:55:38 | 03-11-2026| music: kedua misi sudah tercapai, stop
-[1]Ratika      |08:55:38 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Ratika      |08:55:38 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Ratika      |08:55:38 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Ratika      |08:28:31 | 04-11-2026| music: kedua misi sudah tercapai, stop
+[1]Ratika      |08:28:31 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Ratika      |08:28:31 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Ratika      |08:28:31 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratika menjalankan: Claim Missions
-[1]Ratika      |08:55:39 | 03-11-2026| mission music-listens-10: sudah diklaim
-[1]Ratika      |08:55:39 | 03-11-2026| mission music-minutes-30: sudah diklaim
-[1]Ratika      |08:55:39 | 03-11-2026| mission anime-completed-3: sudah diklaim
+[1]Ratika      |08:28:32 | 04-11-2026| mission music-listens-10: sudah diklaim
+[1]Ratika      |08:28:32 | 04-11-2026| mission music-minutes-30: sudah diklaim
+[1]Ratika      |08:28:32 | 04-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ratika menjalankan: Check Eligibility
 
 --- eligibility [1]Ratika ---
-  @ratikacd | score=2770 rank=2777
-  tasks    [################----] 8/10
+  @ratikacd | score=2800 rank=2745
+  tasks    [##########----------] 2/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -53,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ratika menjalankan: Read Manga
-[1]Ratika      |08:55:43 | 03-11-2026| manga: 0/13 chapter belum completed
+[1]Ratika      |08:28:36 | 04-11-2026| manga: 0/13 chapter belum completed
 --> [1]Ratika menjalankan: Get Gift
-[1]Ratika      |08:55:46 | 03-11-2026| gift: 3/9 belum diterima
-[1]Ratika      |08:55:47 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Ratika      |08:55:49 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Ratika      |08:55:52 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Ratika      |08:28:37 | 04-11-2026| gift: 3/9 belum diterima
+[1]Ratika      |08:28:38 | 04-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Ratika      |08:28:41 | 04-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Ratika      |08:28:44 | 04-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Ratika menjalankan: Setup Profile
-[1]Ratika      |08:55:55 | 03-11-2026| profile: bio="https://x.com/ratikacd" fav=yuki rewardAt=1791706607
-[1]Ratika      |08:55:55 | 03-11-2026| profile: bonus sudah diklaim, skip
+[1]Ratika      |08:28:46 | 04-11-2026| profile: bio="https://x.com/ratikacd" fav=yuki rewardAt=1791706607
+[1]Ratika      |08:28:46 | 04-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Ratika menjalankan: Bind Wallet
-[1]Ratika      |08:55:55 | 03-11-2026| wallet: sudah terikat F7uL2roo5h... (solana)
+[1]Ratika      |08:28:47 | 04-11-2026| wallet: sudah terikat F7uL2roo5h... (solana)
 
 == RINGKASAN ==
-- Ratika: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Ratika: daily=- | tasks OK 1/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
